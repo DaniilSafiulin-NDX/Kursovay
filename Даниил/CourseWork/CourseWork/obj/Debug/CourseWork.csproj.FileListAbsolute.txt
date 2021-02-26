@@ -1,0 +1,66 @@
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\Interop.MSSCTLB.dll
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.ResolveComReference.cache
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.ChangePass.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Init.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_AddStaff.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_ChangeStaff.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_DeleteStaff.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_In.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_Out.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Welcome.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.MainStaff.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.User.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_AddBuyer.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_ChangeGood.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_ChangeBuyer.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_DeleteGood.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_DeleteBuyer.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.Staff_AddGood.resources
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\valya\Desktop\Roman\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\Interop.MSSCTLB.dll
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.ResolveComReference.cache
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Init.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.AddWorker.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.AddBuyer.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.ChangeItem.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.ChangeWorker.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.ChangeBuyer.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.DeleteItem.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.DeleteWorker.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.DeleteBuyer.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.In.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Out.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Hello.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Main.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.AddItem.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.User.resources
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\valya\Desktop\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\Interop.MSSCTLB.dll
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.ResolveComReference.cache
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Main.resources
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Login.resources
+C:\Users\Daniil\Desktop\Даниил (1)\Даниил\CourseWork\CourseWork\obj\Debug\CourseWork.Добавление.resources
